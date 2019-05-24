@@ -6,3 +6,4 @@ This addon adds simple crafting recipes for the default mc items.
 * chest from log
 * crafting table from log
 * combine slabs to block
+* ...more comming in the future
