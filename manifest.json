@@ -1,0 +1,14 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "BetterCrafting",
+        "description": "Make your gaming faster with better crafting recipes to vanilla minecraft bedrock.",
+        "uuid": "091d2cce-7f97-11e9-bc42-526af7764f64",
+        "version": [0, 0, 1]
+    },
+    "modules": [{
+        "type": "data",
+        "uuid": "0f370576-7f97-11e9-bc42-526af7764f64",
+        "version": [0, 0, 1]
+    }]
+}
