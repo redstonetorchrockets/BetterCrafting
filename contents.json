@@ -1,0 +1,28 @@
+{
+    "content": [{
+            "path": "pack_icon.png"
+        },
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "recipes/sticks-1.json"
+        },
+        {
+            "path": "recipes/sticks-2.json"
+        },
+        {
+            "path": "recipes/sticks-3.json"
+        },
+        {
+            "path": "recipes/sticks-4.json"
+        },
+        {
+            "path": "recipes/sticks-5.json"
+        },
+        {
+            "path": "recipes/sticks-6.json"
+        }
+    ],
+    "version": 1
+}
